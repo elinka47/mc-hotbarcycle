@@ -1,0 +1,41 @@
+{
+  "key.category.hotbarcycle.keybinds": "HotbarCycle",
+  "key.hotbarcycle.cycle": "ホットバーを周回",
+  "key.hotbarcycle.single_cycle": "スロットを周回",
+
+  "text.autoconfig.hotbarcycle.title": "HotbarCycle 設定",
+
+  "text.autoconfig.hotbarcycle.category.default": "操作性",
+  "text.autoconfig.hotbarcycle.category.rows": "有効にする行",
+  "text.autoconfig.hotbarcycle.category.columns": "有効にする列",
+
+  "text.autoconfig.hotbarcycle.option.playSound": "周回時にサウンドを再生",
+  "text.autoconfig.hotbarcycle.option.reverseCycleDirection": "周回方向を逆にする",
+  "text.autoconfig.hotbarcycle.option.holdAndScroll": "長押し＋スクロールを有効にする",
+  "text.autoconfig.hotbarcycle.option.holdAndScroll.@Tooltip[0]": "周回のキーを押したままスクロールすると周回します。",
+  "text.autoconfig.hotbarcycle.option.holdAndScroll.@Tooltip[1]": "（既定の動作を置き換えます）",
+  "text.autoconfig.hotbarcycle.option.repeatSlotToCycle": "同じスロットの再選択で周回を有効にする",
+  "text.autoconfig.hotbarcycle.option.repeatSlotToCycle.@Tooltip": "選択中のスロットをもう一度押すと、そのスロットが周回します。",
+  "text.autoconfig.hotbarcycle.option.cycleWhenPickingBlock": "ブロックの取得時に周回",
+  "text.autoconfig.hotbarcycle.option.cycleWhenPickingBlock.@Tooltip": "対象のブロックを、選択する前にホットバーへ周回させます。\n警告：取得処理がサーバー側からクライアント側に移るため、取得されるアイテムが異なる場合があります。",
+  "text.autoconfig.hotbarcycle.option.pickCyclesWholeHotbar": "取得時にホットバー全体を周回する",
+  "text.autoconfig.hotbarcycle.option.pickCyclesWholeHotbar.@Tooltip": "ブロックの取得時に、ホットバー全体を周回させるか、該当するスロットのみを周回させるかを設定します。",
+
+  "text.autoconfig.hotbarcycle.option.enableRow1": "1行目を有効にする",
+  "text.autoconfig.hotbarcycle.option.enableRow1.@Tooltip": "（ホットバーのすぐ上）",
+  "text.autoconfig.hotbarcycle.option.enableRow2": "2行目を有効にする",
+  "text.autoconfig.hotbarcycle.option.enableRow3": "3行目を有効にする",
+  "text.autoconfig.hotbarcycle.option.enableRow3.@Tooltip": "（インベントリの最上段）",
+
+  "text.autoconfig.hotbarcycle.option.enableColumn0": "1列目を有効にする",
+  "text.autoconfig.hotbarcycle.option.enableColumn0.@Tooltip": "（左端）",
+  "text.autoconfig.hotbarcycle.option.enableColumn1": "2列目を有効にする",
+  "text.autoconfig.hotbarcycle.option.enableColumn2": "3列目を有効にする",
+  "text.autoconfig.hotbarcycle.option.enableColumn3": "4列目を有効にする",
+  "text.autoconfig.hotbarcycle.option.enableColumn4": "5列目を有効にする",
+  "text.autoconfig.hotbarcycle.option.enableColumn5": "6列目を有効にする",
+  "text.autoconfig.hotbarcycle.option.enableColumn6": "7列目を有効にする",
+  "text.autoconfig.hotbarcycle.option.enableColumn7": "8列目を有効にする",
+  "text.autoconfig.hotbarcycle.option.enableColumn8": "9列目を有効にする",
+  "text.autoconfig.hotbarcycle.option.enableColumn8.@Tooltip": "（右端）"
+}
